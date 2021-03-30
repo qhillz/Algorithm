@@ -29,7 +29,7 @@ class Solution {
         }
     	
     	losted.removeAll(where);
-		reserved.removeAll(where);
+	reserved.removeAll(where);
     	
         for(int j=0; j<reserved.size(); ) {
         	sw=0;
