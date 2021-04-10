@@ -54,3 +54,8 @@ class Solution {
 
 * ArrayList를 3개나 사용하기 때문에 공간적으로 비효율적이다. 
   * 그러나, 빌려준 후에도 도난 당한 남은 인원이 누구인지를 알 수 있는 장점이 있다.
+1. By using remove() methods :
+ArrayList provides two overloaded remove() method.
+a. remove(int index) : Accept index of object to be removed.
+b. remove(Obejct obj) : Accept object to be removed.
+
